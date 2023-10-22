@@ -1,6 +1,6 @@
 
 #main-navbar {
-  background-color: green;
+  background-color: blue;
   overflow: hidden;
 }
 
@@ -44,7 +44,7 @@
 #sidebar {
   position: fixed;
   right:0%;
-  background-color: gray;
+  background-color: red;
   height: 100%;
   width: 20%;
 }
